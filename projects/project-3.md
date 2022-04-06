@@ -1,61 +1,42 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/mmsite.png
+title: Game Store Website
+permalink: projects/morshusmarket
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - PHP
+  - HTML
+  - CSS
+summary: Website made in a bootstrap starter for a fictional store
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/mmsite_img1.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+<img class="ui image" src="{{ site.baseurl }}/images/mmsite_img2.png">
 
-To give you a flavor of the game, here is an excerpt from one run:
+<img class="ui image" src="{{ site.baseurl }}/images/mmsite_img3.png">
 
-<hr>
+<br/>
+This website is a mock-up store page based on a fiction company revolving around the video game character Morshu from the <em>Legend of Zelda</em> CDI game. This website has alist of 10 hand selected games, one of which I made up and used, aswell as an about me section and a comments section. The email linked is a real one and you can actually contact it but, as it says on the website itself, I don't check it often and may not see any messages for a while on that specific email.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+This project really let my creative juices flow and allowed me to grow my passion for the art of programming to blossem to the nth degree and really allowed me to show my more creative side. I created a whole new company around an obscure shopkeeper from a not so beloved game into the face of a company all based on a joke and, in my opinion, it couldn't have gone better. The games selected were ones that I enjoyed while I was growing up all the way to games I picked up in the past year allowing me to express myself with my coding in a way that, up until now, I wasn't able to do.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+This project elevated my HTML and PHP skills higehr than ever before and allowed me to practice them in a fun way leading to my raised passion. It also showed me that making meaningful and fun projects is waht drives me to be in this field, and do you know what? I wouldn't have it anyother way. 
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Below are a few screen shots of the source code:
 
+<div class="ui small rounded images" style="text-align:center">
+  <img class="ui image" style="width:300px;height:300px;" src="../images/mmsite_code1.png">
+  <img class="ui image" style="width:350px;height:300px;" src="../images/mmsite_code2.png">
+</div>
+
+<hr>
+
+Link to project: <a href="https://github.com/EthanSchaller/StoreWebpage"><i class="large github icon "></i>EthanSchaller/StoreWebpage</a>
+
+<br/>
