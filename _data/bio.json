@@ -78,7 +78,7 @@
     {
       "institution": "Nova Scotia Community Collage, Sydney, Nova Scotia",
       "area": "IT Programming",
-      "studyType": "Diploma",
+      "studyType": "Diploma (Honors)",
       "startDate": "2020-08-10",
       "endDate": "2022-06-01",
       "gpa": "",
@@ -103,6 +103,21 @@
         "Counted stock and reported profits keep the school informed of the success of the canteen.",
         "Carried out day-day-day duties accurately and efficiently.",
         "Demonstrated respect, friendliness, and willingness to help wherever needed."
+      ]
+    },
+    {
+      "company": "Scotia Logic",
+      "position": "Website Developer (Work Term)",
+      "website": "",
+      "startDate": "2022-04-25",
+      "endDate": "2022-05-25",
+      "summary": "Worked on Tickets for a few of Scotia Logic's internal websites as well as helped make on of them.",
+      "highlights": [
+        "Made and worked on websites in ASP.NET where I worked on both the back end and front end of them",
+        "Worked closely with higherups on tickets and on other internal projects.",
+        "Sat in on meetings with clients to get the feel for these types of meetings.",
+        "Demonstrated respect, friendliness, and willingness to help wherever needed.",
+        "Gave input on different changes and things that could be added to help with certain projects."
       ]
     }
   ]
