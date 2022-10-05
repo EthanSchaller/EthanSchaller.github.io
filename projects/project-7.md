@@ -39,6 +39,6 @@ Below are a few screen shots of the source code:
 
 <hr>
 
-Project Link: <a href="https://github.com/EthanSchaller/"><i class="large github icon"></i>EthanSchaller/AspNet</a>
+Project Link: <a href="https://github.com/EthanSchaller/ASP.Net-Test"><i class="large github icon"></i>EthanSchaller/ASP.Net-Test</a>
 
 <br/>
